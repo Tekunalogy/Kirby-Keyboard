@@ -1,0 +1,9 @@
+file_format: "1"
+id: kirby
+name: Kirby
+type: shield
+url: https://github.com/mrossosh/kirby2
+requires: [pro_micro]
+exposes: []
+features:
+  - keys
